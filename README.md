@@ -6,6 +6,7 @@
 - Creación de formularios de contacto y Reserva.
 - Uso de Hooks.
 - Almacenamiento de datos de reservas y formulario de contacto en Firebase.
+- Inicio de sesion con google para editar reservas realizadas.
 - Conexión API para recuperar información en API publica de Recetas de comida.
 
 # Wireframe
