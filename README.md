@@ -13,4 +13,4 @@
 
 ### El modelo utilizado es el siguiente:
 
-<!-- ![Wireframes inicial](./assets/img/wireframe.png) -->
+![Wireframes inicial](./assets/img/wireframe/Wireframe.jpeg)
