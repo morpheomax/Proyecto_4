@@ -1,0 +1,40 @@
+.logueo {
+  margin: 50px;
+}
+.sesion {
+  text-align: center;
+}
+.saludo {
+  padding-top: 5px;
+  font-style: italic;
+  font-weight: 200;
+}
+.user {
+  margin-top: 20px;
+  width: 200px;
+  display: inline-block;
+  text-align: center;
+}
+.avatar {
+  border-radius: 50%;
+  width: 50%;
+}
+.userName {
+  display: inline-block;
+  font-weight: bold;
+}
+.titulo-div {
+  background-color: rgb(245, 245, 245);
+  padding: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 6vh;
+  text-align: center;
+}
+
+.titulo {
+  padding-top: 40px;
+  text-align: center;
+
+}

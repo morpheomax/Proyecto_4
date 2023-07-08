@@ -1,0 +1,28 @@
+.caja-titulo {
+  background-color: #e1dede;
+  padding: 20px;
+  margin: 0;
+  width: 100%;
+}
+.titulo {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.fade-enter {
+  opacity: 0;
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 500ms;
+}
+
+.fade-exit {
+  opacity: 1;
+}
+
+.fade-exit-active {
+  opacity: 0;
+  transition: opacity 500ms;
+}
